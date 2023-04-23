@@ -1,0 +1,48 @@
+
+.profile_franciss{
+    color:rgb(3, 88, 3);
+    border:4px dotted;
+    border-radius: 4px;
+    text-align:center;
+    font-family: 'Montserrat', sans-serif;
+}
+.paragraphe_franciss{
+    text-align:center;
+    color:white;
+    font-family: 'Montserrat', sans-serif;
+
+}
+.franciss_o{
+    background: linear-gradient(#B2FEFA,#0ED2F7);
+}
+.accueil_franciss{
+    text-align:center;
+}
+a{
+    text-decoration: none;
+    color:black;
+    font-size: 1.2em;
+    font-family: 'Montserrat', sans-serif;
+}
+li{
+    text-decoration: underline;
+    font-family: 'Montserrat', sans-serif;
+}
+.retour{
+    text-decoration: underline;
+}
+.Accueil{
+    
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+.Accueil_1{
+    background: linear-gradient(#B2FEFA,#0ED2F7);
+}
+.classe_sb{
+    font-size:3em;
+
+}
+.indisponible{
+    background: linear-gradient(#B2FEFA,#0ED2F7);
+}
